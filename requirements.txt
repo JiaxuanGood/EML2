@@ -1,0 +1,14 @@
+pip install ...
+-i https://pypi.tuna.tsinghua.edu.cn/simple
+
+mlrl-boomer
+scikit-multilearn
+liac-arff
+requests
+
+pandas
+keras
+tensorflow
+
+numpy
+scikit-learn
